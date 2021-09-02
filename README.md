@@ -1,4 +1,5 @@
 ### Hey my name is Simon, welcome to my github
+Take a look at my Projects, if you want to!
 
 <!--
 **slaxeea/slaxeea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
